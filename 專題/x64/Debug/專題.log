@@ -1,0 +1,97 @@
+﻿  test.cpp
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(26,13): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(62,35): error C2440: '正在初始化': 無法由 'const char [13]' 轉換為 'LPCTSTR'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(62,14): message : 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(156,34): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(249,26): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(249,26): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(253,26): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(253,26): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(257,26): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(257,26): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(261,26): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(261,26): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(265,26): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(265,26): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(269,26): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(269,26): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(314,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(315,18): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(322,18): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(395,23): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(395,23): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(398,24): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(398,24): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(402,25): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(402,25): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(404,25): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(404,25): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(406,25): error C2665: 'outtextxy': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(224,6): message : 可能是 'void outtextxy(int,int,TCHAR)'
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(223,6): message : 或       'void outtextxy(int,int,LPCTSTR)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(406,25): message : 當嘗試符合引數清單 '(int, int, char [256])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(416,38): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(416,38): message : 當嘗試符合引數清單 '(IMAGE *, const char [16])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(417,37): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(417,37): message : 當嘗試符合引數清單 '(IMAGE *, const char [15])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(418,37): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(418,37): message : 當嘗試符合引數清單 '(IMAGE *, const char [15])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(419,37): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(419,37): message : 當嘗試符合引數清單 '(IMAGE *, const char [15])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(420,37): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(420,37): message : 當嘗試符合引數清單 '(IMAGE *, const char [15])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(421,39): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(421,39): message : 當嘗試符合引數清單 '(IMAGE *, const char [17])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(422,40): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(422,40): message : 當嘗試符合引數清單 '(IMAGE *, const char [18])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(423,38): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(423,38): message : 當嘗試符合引數清單 '(IMAGE *, const char [16])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(424,38): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(424,38): message : 當嘗試符合引數清單 '(IMAGE *, const char [16])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(425,38): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(425,38): message : 當嘗試符合引數清單 '(IMAGE *, const char [16])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(426,40): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(426,40): message : 當嘗試符合引數清單 '(IMAGE *, const char [17])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(427,38): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(427,38): message : 當嘗試符合引數清單 '(IMAGE *, const char [16])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(428,38): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(428,38): message : 當嘗試符合引數清單 '(IMAGE *, const char [16])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(429,38): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(429,38): message : 當嘗試符合引數清單 '(IMAGE *, const char [16])' 時
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(430,40): error C2665: 'loadimage': 沒有任何 2 多載可以轉換所有引數類型
+D:\程式安裝\Visual Studio\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是 'void loadimage(IMAGE *,LPCTSTR,int,int,bool)'
+C:\Users\JH.DESKTOP-C0P6U6B\Desktop\程式\視窗程式設計\hero\專題\test.cpp(430,40): message : 當嘗試符合引數清單 '(IMAGE *, const char [17])' 時

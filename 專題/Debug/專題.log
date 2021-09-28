@@ -1,7 +1,0 @@
-﻿  test.cpp
-C:\Users\JH.DESKTOP-C0P6U6B\Desktop\專題\專題\test.cpp(26,13): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-C:\Users\JH.DESKTOP-C0P6U6B\Desktop\專題\專題\test.cpp(156,34): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
-C:\Users\JH.DESKTOP-C0P6U6B\Desktop\專題\專題\test.cpp(314,15): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
-C:\Users\JH.DESKTOP-C0P6U6B\Desktop\專題\專題\test.cpp(315,18): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
-C:\Users\JH.DESKTOP-C0P6U6B\Desktop\專題\專題\test.cpp(322,18): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
-  專題.vcxproj -> C:\Users\JH.DESKTOP-C0P6U6B\Desktop\專題\Debug\專題.exe
